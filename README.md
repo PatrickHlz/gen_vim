@@ -1,3 +1,10 @@
+![Platform](https://img.shields.io/badge/platform-linux-lightgrey)
+![Tool](https://img.shields.io/badge/type-cli-blue)
+![Focus](https://img.shields.io/badge/focus-maximum-red)
+![Discipline](https://img.shields.io/badge/mindset-discipline-black)
+![Productivity](https://img.shields.io/badge/productivity-%2B167%25-brightgreen)
+![Status](https://img.shields.io/badge/status-unstoppable-success)
+
 # GENVIM
 
 Are you distracted in class because your classmates are too noisy?  
