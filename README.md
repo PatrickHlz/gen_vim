@@ -18,6 +18,8 @@ This is not a program.
 It’s an idea.  
 And that idea lives within you.
 
+And visit the project's website: https://genv.im/
+
 ## Installation
 
 1. Untar the newest release in your **AFS**:
